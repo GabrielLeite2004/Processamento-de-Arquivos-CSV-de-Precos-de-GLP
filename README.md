@@ -1,4 +1,4 @@
-# Processamento-de-Arquivos-CSV-de-Precos-de-GLP
+# Processamento de Arquivos CSV de Preços de GLP
 
 ## Descrição
 Este projeto em C realiza o processamento de arquivos CSV contendo informações sobre preços de GLP (Gás Liquefeito de Petróleo) coletados em diferentes regiões do Brasil. O código lê os dados de um arquivo CSV, filtra as informações com base na região e salva os resultados filtrados em um arquivo de texto. O projeto faz uso de uma estrutura (struct) para armazenar os dados e de uma lista para gerenciar os registros.
